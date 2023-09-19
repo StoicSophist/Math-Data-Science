@@ -5,3 +5,7 @@ Notes for Data Science
 
 ## Data Set Slides
 [Data Slides](https://docs.google.com/presentation/d/1B1Haahqh5MBBZjjTAZ36SaNoPWzI_aaLMzs11wI5utI/edit?usp=sharing)
+
+
+## Numpy Notes
+[Numpy Notes]Numpy_Notes_GPT.md 
