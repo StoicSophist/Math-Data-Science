@@ -9,3 +9,6 @@ Notes for Data Science
 
 ## Numpy Notes
 [Numpy Notes](https://github.com/StoicSophist/Math-Data-Science/blob/main/Numpy_Notes_GPT.md)
+
+
+## Problem Set 2
