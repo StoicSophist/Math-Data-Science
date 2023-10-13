@@ -1,4 +1,4 @@
-To view code [Click Here](https://github.com/StoicSophist/Math-Data-Science/blob/main/Problem_Set_2.ipynb)
+To view code [Click Here For Problem Set 2 Code](https://github.com/StoicSophist/Math-Data-Science/blob/main/Problem_Set_2.ipynb)
 # Image Processing Report
 
 In this report, we will go through a Python script that loads an image from a URL, performs various image processing tasks, and displays the results using the `imageio`, `matplotlib`, and `scipy.signal` libraries.
