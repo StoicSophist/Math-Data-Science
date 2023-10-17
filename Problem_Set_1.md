@@ -1,3 +1,5 @@
+
+To find code [Click Here for Problem 1](https://github.com/StoicSophist/Math-Data-Science/blob/main/Problem_Set_1.ipynb)
 ---
 title: MNIST Data Processing
 date: 2023-10-17
